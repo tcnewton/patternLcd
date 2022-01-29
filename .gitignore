@@ -9,3 +9,4 @@ lcd1602A.cpp
 *.txt
 platformio*
 *.json
+!main.cpp
